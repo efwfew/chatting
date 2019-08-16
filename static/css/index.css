@@ -1,0 +1,9 @@
+#main {
+    margin: auto;
+    margin-top: 150px;
+    background-color: lightyellow;
+    text-align: center;
+    width: 250px;
+    height: 25px;
+    border-radius: 5px;
+}
